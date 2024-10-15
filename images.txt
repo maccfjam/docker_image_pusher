@@ -14,3 +14,4 @@ johngong/qbittorrent:4.6.0-4.6.0.10
 nyanmisaka/jellyfin:latest
 allanpk716/chinesesubfinder:latest
 linuxserver/jackett:latest
+herberthe0229/iptv-sources
