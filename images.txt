@@ -22,3 +22,4 @@ ghcr.io/monlor/xiaoya-embyserver:latest
 haroldli/xiaoya-tvbox:latest
 foamzou/melody:latest
 hanxi/xiaomusic
+ghcr.io/home-assistant/home-assistant:stable
