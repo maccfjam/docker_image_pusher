@@ -24,3 +24,4 @@ foamzou/melody:latest
 hanxi/xiaomusic
 ghcr.io/home-assistant/home-assistant:stable
 homeassistant/home-assistant
+youshandefeiyang/allinone
