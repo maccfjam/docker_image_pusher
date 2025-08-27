@@ -25,3 +25,4 @@ hanxi/xiaomusic
 ghcr.io/home-assistant/home-assistant:stable
 homeassistant/home-assistant
 youshandefeiyang/allinone
+jacksonliam/mjpg-streamer
