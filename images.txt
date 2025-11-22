@@ -26,3 +26,4 @@ ghcr.io/home-assistant/home-assistant:stable
 homeassistant/home-assistant
 youshandefeiyang/allinone
 rustdesk/rustdesk-server
+gdy666/lucky
